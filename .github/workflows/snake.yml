@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
-    runs-on: ubuntu-latest
+    generate:
+      runs-on: ubuntu-latest
 
-    steps:
+      steps:
       - name: Checkout
         uses: actions/checkout@v3
 
