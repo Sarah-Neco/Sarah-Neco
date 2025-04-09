@@ -64,11 +64,10 @@
 
 ---
 
-### 🐍 Snake Game (Cobertura de contribuição)
-
 <p align="center">
-  <img src="https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Sarah-Neco/Sarah-Neco/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 <p align="center">
   🌸✨ Obrigado(a) por visitar meu perfil! Tenha um bom dia! ✨🌸
