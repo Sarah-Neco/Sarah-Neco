@@ -1,8 +1,6 @@
 name: Snake animation 🐍
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,22 +8,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout do repositório
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Gerar animação da cobrinha
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Sarah-Neco
           outputs: |
-            ./output/github-contribution-grid-snake.svg
-          color_snake: ff69b4
-          color_dots: ffc0cb
-
-      - name: Commit e Push
-        run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add output/github-contribution-grid-snake.svg
-          git commit -m "Atualizando cobrinha fofa 🐍✨"
-          git push
+            dist/github-contribution-grid-snake.svg
