@@ -25,7 +25,7 @@ jobs:
       - name: Push snake
         run: |
           git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
+          git config --global Sarah-Neco "GitHub Actions"
           git add output/github-contribution-grid-snake.svg
           git commit -m "Atualizando cobrinha fofa 🐍✨"
           git push
