@@ -77,12 +77,10 @@
 
 ---
 
-<p align="center">
-  <a href="#top">
-    <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="50" alt="Voltar ao topo" />
-  </a>
-</p>
 
 <p align="center">
-  Feito com 💖 por <a href="https://github.com/Sarah-Neco" target="_blank">Sarah</a> 🌸✨
+  ─── ⋆⋅☆⋅⋆ ───<br/>
+  Com amor, <a href="https://github.com/Sarah-Neco" target="_blank"><strong>Sarah</strong></a> ✨🌸<br/>
+  ─── ⋆⋅☆⋅⋆ ───
 </p>
+
