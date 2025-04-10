@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FFB6C1&height=250&section=header&text=✨%20Bem-vindo(a)%20ao%20meu%20perfil!%20✨&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Seja+feliz+e+se+sinta+em+casa!&descAlign=50&descSize=20&animation=twinkling" alt="banner personalizado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FFB6C1&height=250&section=header&text=✨%20Bem-vindo(a)%20ao%20meu%20perfil!%20✨&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Seja+feliz!&descAlign=50&descSize=20&animation=twinkling" alt="banner personalizado" />
 </p>
 
 <h1 align="center">🌸 Olá, eu sou a Sarah! 🌸</h1>
