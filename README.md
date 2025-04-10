@@ -19,7 +19,7 @@
 
 ### 🌟 Mensagens do dia
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Desenvolvendo+coisas+incríveis+!;Vamos+codar+com+fofura+!+%F0%9F%90%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Desenvolvendo+coisas+incríveis!;Vamos+codar+com+fofura+!+%F0%9F%90%B1" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,8 +27,8 @@
 ### 📈 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=rose_pine&hide_title=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=rose_pine" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarah-Neco&show_icons=true&theme=rose_pine&hide_title=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-Neco&layout=compact&theme=rose_pine" />
 </p>
 
 ---
@@ -45,12 +45,17 @@
 ### 📬 Vamos nos conectar!
 
 <p align="center">
-
-  <a href="mailto:sarah7neco@gmail.com">
+  <a href="mailto:sarah7neco@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Sarah-Neco" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sarah-Neco?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Projetos-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos">
   </a>
 </p>
 
@@ -59,17 +64,25 @@
 ### 👀 Contador de visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seuusuario&label=Profile+Views&color=ff69b4&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Sarah-Neco&label=Profile+Views&color=ff69b4&style=flat" alt="contador de visitas" />
 </p>
 
 ---
+
+### 🐍 Snake animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sarah-Neco/Sarah-Neco/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-
+---
 
 <p align="center">
-  🌸✨ Obrigado(a) por visitar meu perfil! Tenha um bom dia! ✨🌸
+  <a href="#top">
+    <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="50" alt="Voltar ao topo" />
+  </a>
+</p>
+
+<p align="center">
+  Feito com 💖 por <a href="https://github.com/Sarah-Neco" target="_blank">Sarah</a> 🌸✨
 </p>
