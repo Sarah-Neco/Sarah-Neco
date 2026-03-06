@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">🌸 Olá, eu sou a Sarah! 🌸</h1>
+<h1 align="center"> Olá, eu sou a Sarah!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200" alt="gatinho animado fofo" />
@@ -15,8 +15,10 @@
 
 ## ✨ Sobre mim
 - 🌼 Estudante de **Sistemas para Internet**
-- 🎯 Sempre buscando novos aprendizados e desafios
-- 🎀 Amo tecnologia!
+- 🎯 Básico sobre phyton
+- 🎀 Desenvolvedor web
+- 🌻 Design gráfico (Photoshop 2018/2019, Illustrator, Adobe protifolio, idesign, xd)
+- 🍀 Design de interface e experiência do usuário (UI/UX)
 
 ---
 
