@@ -15,20 +15,11 @@
 
 ## ✨ Sobre mim
 - 🌼 Estudante de **Sistemas para Internet**
-- 🎯 Básico sobre phyton
-- 🎀 Desenvolvedor web
+- 🎯 Phyton | C++ | Java
+- 🎀 Desenvolvedora web
 - 🌻 Design gráfico (Photoshop 2018/2019, Illustrator, Adobe protifolio, idesign, xd)
 - 🍀 Design de interface e experiência do usuário (UI/UX)
-
----
-
-## 💖 Mensagens do dia
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Desenvolvendo+coisas+incríveis+!;Vamos+codar+com+fofura+!+%F0%9F%90%B1" alt="Typing SVG" />
-</p>
-
-
+- 🎯 Objetivo: Busco oportunidade como desenvolvedora front-end ou estágio na área de tecnologia para evoluir minhas habilidades em desenvolvimento web e design de interfaces.
 ---
 
 ## 📈 Minhas estatísticas no GitHub
@@ -51,7 +42,7 @@
 
 ---
 
-## 📬 Vamos nos conectar!
+## 📬 Contatos:
 
 <p align="center">
   <a href="mailto:sarah7neco@gmail.com">
@@ -72,7 +63,7 @@
 
 ---
 
-## 🐍 Cobrinha
+## 🐍 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sarah-Neco/Sarah-Neco/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -81,13 +72,13 @@
 ---
 
 <p align="center">
-  ✨ Obrigado(a) por visitar meu perfil! Que seu dia seja cheio de alegria! ✨
+  ✨ Obrigado(a) por visitar meu perfil! ✨
 </p>
 
 ---
 
 <p align="center">
   ─── ⋆⋅☆⋅⋆ ───<br/>
-  Feito com carinho por <a href="https://github.com/Sarah-Neco" target="_blank"><strong>Sarah</strong></a> 🌸<br/>
+  Feito por <a href="https://github.com/Sarah-Neco" target="_blank"><strong>Sarah</strong></a> 🌸<br/>
   ─── ⋆⋅☆⋅⋆ ───
 </p>
